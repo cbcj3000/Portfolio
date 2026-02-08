@@ -1,4 +1,4 @@
-#EDIT THIS
+# EDIT THIS
 # Personal Portfolio Website
 
 A custom-designed developer portfolio built to showcase my professional experience, selected projects, and technical strengths as a full-stack developer. This site was wireframed prior to development and structured with a strong focus on visual hierarchy, clarity, and full project lifecycle thinking.
