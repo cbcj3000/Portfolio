@@ -1,7 +1,7 @@
 # EDIT THIS
 # Personal Portfolio Website
 
-A custom-designed developer portfolio built to showcase my professional experience, selected projects, and technical strengths as a full-stack developer. This site was wireframed prior to development and structured with a strong focus on visual hierarchy, clarity, and full project lifecycle thinking.
+A custom designed developer portfolio built to showcase my professional experience, selected projects, and technical strengths as a full-stack developer. This site was wireframed prior to development and structured with a strong focus on visual hierarchy and clarity.
 
 Deployed on GitHub Pages.
 
@@ -12,7 +12,6 @@ Deployed on GitHub Pages.
 - HTML  
 - CSS (Tailwind CSS + DaisyUI)  
 - JavaScript  
-- Custom espresso-themed design system  
 - Hosted on GitHub Pages  
 
 ---
@@ -37,23 +36,6 @@ Deployed on GitHub Pages.
 
 ---
 
-## Lessons Learned
-
-- Strengthened design system thinking across color, spacing, and hierarchy  
-- Improved structuring long-form content into digestible sections  
-- Practiced maintaining consistency across components  
-- Refined dark theme contrast for readability and accessibility  
-
----
-
-## Areas for Improvement
-
-- Add subtle motion interactions for enhanced UX  
-- Expand project case studies with deeper technical breakdowns  
-- Improve accessibility and semantic structuring  
-- Continue refining performance optimizations  
-
----
 
 ## Setup Instructions
 
