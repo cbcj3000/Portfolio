@@ -1,7 +1,6 @@
-# EDIT THIS
 # Personal Portfolio Website
 
-A custom designed developer portfolio built to showcase my professional experience, selected projects, and technical strengths as a full-stack developer. This site was wireframed prior to development and structured with a strong focus on visual hierarchy and clarity.
+This is my personal developer/analytics portfolio built to showcase my professional experience, selected projects, and technical strengths.
 
 Deployed on GitHub Pages.
 
@@ -18,12 +17,11 @@ Deployed on GitHub Pages.
 
 ## Key Features
 
-- Structured one-page layout with smooth section navigation  
-- Dedicated sections for Professional Work and Independent Projects  
-- Emphasis on full project lifecycle (BRDs, wireframes, development)  
-- Card-based layout system for clean content separation  
+- Structured one page layout with smooth section navigation  
+- Dedicated sections  
+- Emphasis on full project lifecycle in each project (BRDs, wireframes, development)  
+- Card based layout system for clean content separation  
 - Responsive design optimized for desktop and mobile  
-- Custom dark theme with layered visual depth  
 
 ---
 
@@ -32,7 +30,7 @@ Deployed on GitHub Pages.
 - Created wireframes before development to define layout and content hierarchy  
 - Established a consistent spacing and typography system  
 - Designed reusable project card components  
-- Balanced personality-driven design with professional presentation  
+- Balanced personality driven design with professional presentation  
 
 ---
 
